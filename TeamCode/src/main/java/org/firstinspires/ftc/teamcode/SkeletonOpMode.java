@@ -1,5 +1,4 @@
 package org.firstinspires.ftc.teamcode;
 
-public class {
-    //This is Cool!!
+public class SkeletonOpMode {
 }
